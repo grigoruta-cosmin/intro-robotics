@@ -18,9 +18,9 @@ void setup() {
   pinMode(redPotPin, INPUT);
   pinMode(greenPotPin, INPUT);
   pinMode(bluePotPin, INPUT);
-  pinMode(redLedValue, OUTPUT);
-  pinMode(greenLedValue, OUTPUT);
-  pinMode(blueLedValue, OUTPUT);
+  pinMode(redLedPin, OUTPUT);
+  pinMode(greenLedPin, OUTPUT);
+  pinMode(blueLedPin, OUTPUT);
   Serial.begin(9600);
 }
 
