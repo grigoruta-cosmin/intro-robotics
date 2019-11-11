@@ -19,5 +19,5 @@
 3. Notes:
   * The knocks must be detected with a passive buzzer that uses a 100ohms rezistor
   * If it doesn't work, change the resitor
-  * The time must be measured with millis()
+  * The time must be measured with ```cpp millis() ```
   * The code must be uploaded to github and the README updated
