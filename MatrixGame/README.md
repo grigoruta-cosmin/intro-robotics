@@ -39,5 +39,5 @@ In order to move the player, the joystick has to be moved along the **x**-axis, 
 * The menu and messages are shown on a **LCD Display**.
 * All interactions are made with a **Joystick**.
 
-# Bugs
+# Bugs :bug:
 1. If the player changes the difficulty and then starts the game, if he doesn't releasea a block in the difficulty *descending time*, he will be pushed back into the main menu.
