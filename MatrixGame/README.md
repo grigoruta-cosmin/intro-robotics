@@ -22,6 +22,7 @@ The difficulty of the game is represented by the speed of the descending blocks.
 * Easy, a new line is generated every **7** seconds.
 * Medium, a new line is generated every **4** seconds.
 * Hard, a new line is generated every **2.5** seconds.
+
 **Note** Everytime the player reaches a score multiple of ten the *descending time* is decreased by 50 miliseconds.
 
 # Controls
@@ -39,3 +40,4 @@ In order to move the player, the joystick has to be moved along the **x**-axis, 
 * All interactions are made with a **Joystick**.
 
 # Bugs
+1. If the player changes the difficulty and then starts the game, if he doesn't releasea a block in the difficulty *descending time*, he will be pushed back into the main menu.
