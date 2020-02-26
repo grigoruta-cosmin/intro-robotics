@@ -12,5 +12,6 @@ This project is inspired from an intersection that I pass by everyday, and it's 
 | Hobbyglass     | N/A      |
 | Breadboard     | 1        |
 ## Projects Fritzing Schema
+![Fritzing Schema](final-project-schema.png)
 
  
