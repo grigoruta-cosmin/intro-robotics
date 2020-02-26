@@ -13,7 +13,8 @@ This project is inspired from an intersection that I pass by everyday, and it's 
 | Breadboard     | 1        |
 ## Projects Fritzing Schema :clipboard:
 ![Fritzing Schema](final-project-schema.png)
-## Projects Photos and Video
+## Projects Photos and Video :camera:
+**Video Link:** https://youtu.be/gEJHFC733JI
 ![Front](front.jpeg)
 ![Left](left.jpeg)
 ![Arduino](arduino.jpeg)
