@@ -20,6 +20,6 @@ This project is inspired from an intersection that I pass by everyday, and it's 
 ![Arduino](arduino.jpeg)
 ![wires](wires.jpeg)
 ## Additional Links
-*BOM file:* https://docs.google.com/spreadsheets/d/1Htry010sDG5Vxl1XxuDkIDsEU6a6pIBbHVVmY9l-o_E/edit#gid=1646112939
+**BOM file:** https://docs.google.com/spreadsheets/d/1Htry010sDG5Vxl1XxuDkIDsEU6a6pIBbHVVmY9l-o_E/edit#gid=1646112939
 
  
