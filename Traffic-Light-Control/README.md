@@ -15,11 +15,11 @@ This project is inspired from an intersection that I pass by everyday, and it's 
 ![Fritzing Schema](final-project-schema.png)
 ## Projects Photos and Video :camera:
 **Video Link:** https://youtu.be/gEJHFC733JI
-![Front](front.jpeg =250x)
-![Left](left.jpeg =250x)
-![Arduino](arduino.jpeg =250x)
-![wires](wires.jpeg =250x)
+![Front](front.jpeg)
+![Left](left.jpeg)
+![Arduino](arduino.jpeg)
+![wires](wires.jpeg)
 ## Additional Links
-https://docs.google.com/spreadsheets/d/1Htry010sDG5Vxl1XxuDkIDsEU6a6pIBbHVVmY9l-o_E/edit#gid=1646112939
+*BOM file:* https://docs.google.com/spreadsheets/d/1Htry010sDG5Vxl1XxuDkIDsEU6a6pIBbHVVmY9l-o_E/edit#gid=1646112939
 
  
